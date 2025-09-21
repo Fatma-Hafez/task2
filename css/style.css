@@ -1,0 +1,51 @@
+.div1{
+    width: 450px;
+    height: 30px;
+    background-color: rgb(9, 9, 88);
+    color: white;
+    border-radius: 10px;
+    margin: auto;
+    text-align: center;
+}
+.div2{
+    height: 150px;
+    background-color: rgb(9, 9, 88);
+    color: white;
+    border-radius: 20px;
+}
+.div3{
+    width: 400px;
+    height: 250px;
+    border: 3px solid rgb(11, 11, 71);
+    border-radius: 20px;
+    margin: auto;
+}
+.head:hover{
+    background-color: blue;
+    color: aliceblue;
+}
+li:hover {
+    background-color: blue;
+    color: aliceblue;
+}
+.div4{
+    height: 330px;
+    background-color: rgb(11, 11, 71);
+    color: aliceblue;
+    text-align: center;
+    border-radius: 20px;
+}
+.div5{
+    width: 400px;
+    height: 210px;
+    border: 2px solid white;
+    margin: auto;
+    text-align: center;
+}
+button{
+    background-color: blue;
+    color: aliceblue;
+    width: 100px;
+    height: 30px;
+}
+
